@@ -1,9 +1,9 @@
 # ProblemSolving
 
-Solving Problems from 
+## Solving Problems from : 
 <br>
-CodeForces
+### CodeForces
 <br>
-leetcode
+###leetcode
 <br>
-HackerEarth
+### HackerEarth
