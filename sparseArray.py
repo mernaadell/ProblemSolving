@@ -3,9 +3,15 @@ import numpy as np
 
 # Complete the matchingStrings function below.
 if __name__ == '__main__':
-    alice=0
-    bob=0
-    a = list(map(int, input().rstrip().split()))
-    print(type(a[0]))
-    b = list(map(int, input().rstrip().split()))
-#
+    x=int(input())
+    l=[input() for i in range(x)]
+    print(l) 
+    y=int(input())
+    l2=[input() for j in range(y)]
+    print(l2) 
+    answer=[]
+    for k2 in l2:
+        print(k2)
+        answer.append(l.count(k2))
+    for t in answer:
+        print(t)
