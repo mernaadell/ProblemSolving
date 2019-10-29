@@ -1,9 +1,3 @@
 # ProblemSolving
 
-## Solving Problems from : 
-<br>
-* CodeForces
-<br>
-* leetcode
-<br>
-* HackerEarth
+## ProblemSolving Hub in Python
