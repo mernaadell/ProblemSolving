@@ -3,6 +3,7 @@ import numpy as np
 
 # Complete the matchingStrings function below.
 if __name__ == '__main__':
+    
     x=int(input())
     l=[input() for i in range(x)]
     print(l) 
