@@ -2,8 +2,7 @@
 import numpy as np
 
 if __name__ == '__main__':
-    alice=0
-    bob=0
+    alice=0;bob=0
     l =input().split()
     l2 = input().split()
     for i,j in zip(l,l2):
