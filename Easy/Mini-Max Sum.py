@@ -6,8 +6,7 @@ import random
 import re
 import sys
 
-# Complete the miniMaxSum function below.
-
+# Complete the miniMaxSum function below
 
 if __name__ == '__main__':
 
