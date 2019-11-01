@@ -8,8 +8,7 @@ Created on Fri Nov  1 17:30:36 2019
 if __name__ == '__main__':
     n = int(input())
     p=0
-    ne=0
-    b=0
+    ne=0;b=0
     arr = list(map(int, input().rstrip().split()))
     for i in range(len(arr)):
         if arr[i]>0:
