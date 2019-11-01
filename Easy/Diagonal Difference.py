@@ -7,7 +7,6 @@ Created on Fri Nov  1 16:15:24 2019
 """
 import math as m
 if __name__ == '__main__':
-    
     n = int(input().strip())
     arr = []
     sum=0;sum2=0
