@@ -24,6 +24,6 @@ if __name__ == '__main__':
        
     for col in arr:
         print(col,end=" ")
-        
+
         
         
